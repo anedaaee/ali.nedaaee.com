@@ -45,8 +45,6 @@ export default function Home() {
           {images.map((img, i) => (
             <Box
               key={i}
-              component="img"
-              alt="Ali Nedaaee"
               sx={{
                 backgroundImage: `url(${img})`,
                 backgroundSize: "cover",
