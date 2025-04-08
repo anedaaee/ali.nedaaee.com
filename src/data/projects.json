@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Class Management System",
+    "github":"https://github.com/anedaaee/music-academy",
+    "date": "2025",
+    "logo": "/projects/academy.jpg",
+    "description": "A comprehensive management system designed for educational institutions to efficiently handle classes, sessions, and instructors. The system offers robust features for scheduling, tracking attendance, and organizing academic activities. Additionally, it integrates accounting functionalities to manage tuition fees, payments, salaries, and other financial operations. This all-in-one solution streamlines administrative tasks, enhances communication between staff and students, and provides insightful reports for better decision-making."
+  },
+  {
+    "name": "Asan Melody",
+    "github":"https://github.com/anedaaee/asan-melody",
+    "date": "2024",
+    "logo": "/projects/asan-melody.png",
+    "description": "Developed and maintained a comprehensive data panel for managing concerts, classes, courses, and news related to music organizations, including music bands and music academies. The system provided user-friendly interfaces for administrators to efficiently create, update, and monitor musical events and educational activities."
+  },
+  {
+    "name": "Baham",
+    "date": "2025",
+    "description": "Led the backend development of an interactive web platform designed to support digital campaigns for city council candidates. The system provided a variety of features enabling candidates to create and manage advertisements, host live online meetings with constituents, design and distribute questionnaires, and engage users through gamified experiences. Users could earn points by participating in activities such as games and surveys, enhancing community engagement.The backend was responsible for handling user management, session scheduling, content delivery, game logic, data storage, and real-time interactions. Emphasis was placed on scalability, performance, and secure handling of user and campaign data."
+  }, 
+  {
+    "name": "IoT-Based Greenhouse Watering and Monitoring System with Telegram Bot Integration",
+    "date": "2025",
+    "description": "Developed an Internet of Things (IoT) solution for remotely controlling and monitoring a greenhouse environment. The system integrates sensors to track key environmental factors such as temperature, humidity, light intensity, and soil moisture. These metrics are continuously monitored and displayed in real-time for efficient greenhouse management.Users can control irrigation remotely via a Telegram bot, allowing them to adjust watering schedules based on sensor data. The system includes automated responses to environmental changes, such as activating irrigation when soil moisture falls below a set threshold. The platform offers a user-friendly interface for monitoring and managing the greenhouse conditions from anywhere, providing convenience and optimized resource usage."
+  }, 
+  {
+    "name": "Development of a Shipment Tracking System for a Cooking Oil Manufacturing Company",
+    "date": "2023",
+    "logo": "/projects/oilTraction.png",
+    "description": "Designed and implemented a logistics tracking system tailored for a cooking oil production facility. The system enables real-time monitoring of outgoing shipments, allowing the company to track delivery statuses, optimize distribution routes, and log delivery confirmations. It incorporates features for shipment lifecycle management, automated status updates, and data-driven reporting. This solution improved operational efficiency, enhanced transparency across the supply chain, and reduced delays and delivery-related errors."
+  }, 
+  {
+    "name": "Telegram Bot for Sales and Customer Management with Hierarchical Admin Access",
+    "github":"https://github.com/anedaaee/marzban_bot",
+    "date": "2023",
+    "description": "Developed a Telegram bot designed to facilitate sales operations and customer management through an easy-to-use, conversational interface. The bot enables users to browse products, place orders, and track their purchase history, while providing administrators with a system for managing customers, sales data, and permissions."
+  },
+  {
+    "name": "Khepri",
+    "github":"https://github.com/anedaaee/khepri_dbi_bigdata",
+    "date": "2022",
+    "logo": "/projects/khepri.png",
+    "description": "Collaborated on the development of a prototype financial platform focused on stock trading and currency forecasting. My primary responsibility was designing and implementing the data panel (dashboard) for users to interact with simulated stock transactions and view forecast results. The dashboard featured real-time data visualization, transaction logs, and user interaction flows. The predictive model for currency forecasting was developed by a separate team and integrated into the system through API endpoints. This project enhanced my skills in frontend development, data presentation, and collaborative software engineering."
+  }
+]

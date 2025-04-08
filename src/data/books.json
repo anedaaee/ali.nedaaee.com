@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Haskell handbook",
+        "description":"Example-Based Haskell Programming Language Tutorial.",
+        "link":"https://github.com/anedaaee/PL_course/blob/04ed3f95e9394a2718e1a6beb1e647f2520b7cb0/Haskell_handbook_english.pdf",
+        "image":"/skills/haskell.png"
+    },
+    {
+        "name":"Racket handbook",
+        "description":"Example-Based Racket Programming Language Tutorial",
+        "link":"https://github.com/anedaaee/PL_course/blob/04ed3f95e9394a2718e1a6beb1e647f2520b7cb0/Racket_handbook_english.pdf",
+        "image":"/skills/racket.png"
+    }
+]

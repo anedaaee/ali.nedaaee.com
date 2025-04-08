@@ -1,0 +1,38 @@
+[
+    {
+      "company": "Petanux GmbH",
+      "url":"https://www.petanux.com/",
+      "location": "Bonn,Germany",
+      "role": "Remote Software Engineer",
+      "period": "Feb 2025 - Now",
+      "logo": "/experience/petanux.png",
+      "description": "Developing scalable backend systems using NestJS and Prisma in a microservice architecture."
+    },
+    {
+        "company": "IDA",
+        "url":"https://technopark.ir/fa/main/company/20089",
+        "location": "Zanjan,Iran",
+        "role": "Network Security Engineer",
+        "period": "Jul 2024 - Sep 2024",
+        "logo": "/experience/ida.png",
+        "description": "During my time at IDA, I worked extensively with HTTPS and MQTTS protocols, focusing on ensuring secure communication for IoT systems. I also gained experience in setting up CA (Certificate Authority) servers and configuring DNS servers in a local network to manage and secure internal traffic. This work involved configuring SSL/TLS certificates for secure data transmission and optimizing network services for reliability and security."
+    },
+    {
+        "company": "Petanux GmbH",
+        "url":"https://www.petanux.com/",
+        "location": "Bonn,Germany",
+        "role": "Remote Fullstack developer",
+        "period": "Oct 2023 - Jan 2024",
+        "logo": "/experience/petanux.png",
+        "description": "In this company, I worked as both backend and frontend developer and also managed the database for the molevision project data panel."
+    },
+    {
+      "company": "DMPZ",
+      "url":"https://dmpz.ir/",
+      "location": "Tehran,Iran",
+      "role": "Remote Backend Developer",
+      "period": "Feb 2023 - Oct 2023 ",
+      "logo": "/experience/dade-mehvar-paya.png",
+      "description": "In this company, I worked as a backend developer for the solar power plant monitoring system project. I was responsible for developing the backend using Express js and Microsoft SQL Server."
+    }
+  ]

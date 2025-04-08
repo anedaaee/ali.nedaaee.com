@@ -1,0 +1,35 @@
+[
+    {
+        "title": "amad o raft",
+        "artist": "Ali Nedaee",
+        "composer": "Ali Nedaee",
+        "arranger": "Ali Nedaee",
+        "singer":"Rahim Moeini Kermanshahi",
+        "genre": "Iranian Classical music",
+        "audio": "/songs/amado raftfinal.mp3"
+    },{
+        "title": "Afsaneh Mardom",
+        "artist": "Ali Nedaee",
+        "composer": "Ali Nedaee",
+        "arranger": "Ali Nedaee",
+        "singer":"Fereydoon Moshiri",
+        "genre": "Iranian Classical music",
+        "audio": "/songs/afsaneh mardomfinalf.mp3"
+    },{
+        "title": "Ghame Jananeh",
+        "artist": "Ali Nedaee",
+        "composer": "Ali Nedaee",
+        "arranger": "Ali Nedaee",
+        "singer":"Hafez,Rumi",
+        "genre": "Iranian Classical music",
+        "audio": "/songs/new song2finalmp3.mp3"
+    },{
+        "title": "Yekbaregi",
+        "artist": "Ali Nedaee",
+        "composer": "Ali Nedaee",
+        "arranger": "Ali Nedaee",
+        "singer":"Rahim Moeini Kermanshahi",
+        "genre": "Iranian Classical music",
+        "audio": "/songs/yekbaregi.mp3"
+    }
+]

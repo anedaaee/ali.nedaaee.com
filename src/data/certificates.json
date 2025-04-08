@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Supervised Machine Learning: Regression and Classification",
+        "link":"https://coursera.org/share/66014ae8d4cf1124fd3f63af452e6366",
+        "date":"August 17, 2023",
+        "image":"/certificates/ml.jpeg"
+    },
+    {
+        "name":"The Arduino Platform and C Programming",
+        "link":"https://coursera.org/share/d616028613975ee9799942804fc533c1",
+        "date":"September 7, 2022",
+        "image":"/certificates/iot.jpeg"
+    },
+    {
+        "name":"Programming with JavaScript",
+        "link":"https://coursera.org/share/4ff09a40d7c6f83fdc2267c83e69a7cd",
+        "date":"August 21, 2023",
+        "image":"/certificates/js.jpeg"
+    }
+]
